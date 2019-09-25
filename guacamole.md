@@ -2,5 +2,6 @@
 - Avacado 
 - Lime (Trad.) or lemon 
 - Salt
-- Pepper
+- Black Pepper
+- Chili pepper
 # Instructions

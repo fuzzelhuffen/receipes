@@ -2,4 +2,5 @@
 - Chocolate
 - Eggs
 - Butter
+- Sugar
 # Instructions
